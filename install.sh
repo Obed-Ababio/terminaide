@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Download the executable
-wget https://github.com/Obed-Ababio/terminaide/raw/master/terminaide
+curl -O https://github.com/Obed-Ababio/terminaide/raw/master/aide
 
 # Move the executable to /usr/local/bin
 sudo mv aide /usr/local/bin

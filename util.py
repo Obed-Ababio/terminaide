@@ -14,7 +14,7 @@ def call_chatgpt(input: str) -> str:
         text response
     """
 
-    OPENAI_API_KEY = "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"
+    OPENAI_API_KEY = "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"
 
     prompt = 'You are an AI agent available as a tool on a bash terminal. \
           You can answer any question in this domain. \
